@@ -22,6 +22,7 @@ Data Import</br>
 Data Querying</br>
 KPI Calculations</br>
 Business Analysis</br>
+-<a href="https://github.com/analytical31/Banking_Loan_Analysis/blob/main/Banking_loan_data.sql"> MYSQL Data</a> </br>
 ## Python</br>
 Pandas</br>
 Matplotlib</br>
