@@ -5,3 +5,33 @@ The dataset contains customer demographic information, income details, loan info
 
 
 -<a href="https://github.com/analytical31/Banking_Loan_Analysis/blob/main/Bank_Loan_Dataset.csv"> Bank_Loan_Dataset</a> </br>
+
+
+## Objectives</br>
+Analyze customer loan applications.</br>
+Identify factors affecting loan approvals.</br>
+Evaluate customer creditworthiness.</br>
+Track loan distribution across different loan types.</br>
+Create interactive dashboards for decision-making.</br>
+Generate actionable business insights.</br>
+
+## Tools & Technologies</br>
+## SQL</br>
+Database Creation</br>
+Data Import</br>
+Data Querying</br>
+KPI Calculations</br>
+Business Analysis</br>
+## Python</br>
+Pandas</br>
+Matplotlib</br>
+Seaborn</br>
+## Power BI</br>
+Interactive Dashboard</br>
+KPI Cards</br>
+Bar Charts</br>
+Pie Charts</br>
+Treemaps</br>
+Slicers</br>
+
+
