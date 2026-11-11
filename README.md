@@ -27,6 +27,7 @@ Business Analysis</br>
 Pandas</br>
 Matplotlib</br>
 Seaborn</br>
+-<a href="https://github.com/analytical31/Banking_Loan_Analysis/blob/main/banking_loan_analysis.ipynb"> Python Analysis and Visualization</a> </br>
 ## Power BI</br>
 Interactive Dashboard</br>
 KPI Cards</br>
