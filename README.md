@@ -35,5 +35,7 @@ Bar Charts</br>
 Pie Charts</br>
 Treemaps</br>
 Slicers</br>
+-<a href="https://github.com/analytical31/Banking_Loan_Analysis/blob/main/Bank_Loan_Data_Analysis.pbix"> Power BI dashboard</a> </br>
+<img width="1121" height="627" alt="Screenshot 2026-11-11 154710" src="https://github.com/user-attachments/assets/3a91a5ff-a893-45e4-8e02-37fa12f38987" />
 
 
